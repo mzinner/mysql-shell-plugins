@@ -14,5 +14,5 @@ Other names may be trademarks of their respective owners.
 
 Type '\help' or '\?' for help; '\quit' to exit.
 
-MySQL > JS > plugins.repositories.add("github.com/mzinner")
+MySQL>JS> plugins.repositories.add("github.com/mzinner")
 ```
