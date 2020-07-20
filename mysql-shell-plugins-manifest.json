@@ -1,0 +1,32 @@
+{
+    "fileType": "MySQL Shell Plugins Manifest",
+    "version": "0.0.1",
+    "repository": {
+        "name": "MikeZ's Example Plugin Repository",
+        "description": "A collection of example plugins that help to learn about the MySQL Shell plugin infrastructure."
+    },
+    "plugins": [
+        {
+            "caption": "Hello World Plugin",
+            "name": "hello",
+            "moduleName": "hello_world_plugin",
+            "description": "The most basic plugin example.",
+            "latestVersion": "0.0.1",
+            "editions": [
+                "community"
+            ],
+            "versions": [
+                {
+                    "version": "0.0.1",
+                    "developmentStage": "preview",
+                    "changes": [
+                        "Inital release."
+                    ],
+                    "urls": {
+                        "community": "https://insidemysql.com/downloads/mysql-shell-cloud-plugin-0.0.7.zip",
+                    }
+                }
+            ]
+        }
+    ]
+}
