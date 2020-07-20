@@ -1,3 +1,4 @@
 # MySQL Shell Plugins
 
-This repository hosts the MySQL Shell manifest file for all plugins offered from this github profile. 
+This repository hosts the manifest for various example plugins for the MySQL Shell. These plugins can be used to learn about the MySQL Shell plugin infrastructure.
+
