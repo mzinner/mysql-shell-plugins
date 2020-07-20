@@ -4,7 +4,7 @@ This repository hosts the manifest file for various MySQL Shell example plugins.
 
 To add these plugins to your local MySQL Installation use the following commands.
 
-```bash
+```txt
 $ mysqlsh
 MySQL Shell 8.0.XX
 
@@ -14,5 +14,5 @@ Other names may be trademarks of their respective owners.
 
 Type '\help' or '\?' for help; '\quit' to exit.
 
-MySQL > JS > plugins.repositories.add("github/mzinner")
+MySQL > JS > plugins.repositories.add("github.com/mzinner")
 ```
