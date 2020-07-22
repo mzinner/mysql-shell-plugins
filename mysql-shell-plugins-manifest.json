@@ -13,7 +13,10 @@
             "description": "The most basic plugin example.",
             "latestVersion": "0.0.1",
             "editions": [
-                "community"
+                {
+                    "name": "community",
+                    "packagePrefix": "mysql-shell-hello-plugin"
+                }
             ],
             "versions": [
                 {
