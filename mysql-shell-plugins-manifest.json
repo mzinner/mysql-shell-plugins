@@ -22,6 +22,8 @@
                 {
                     "version": "0.0.1",
                     "developmentStage": "preview",
+                    "shellVersionMinimum": "8.0.27",
+                    "shellVersionMaximum": "8.0.28",
                     "changes": [
                         "Inital release."
                     ],
