@@ -9,7 +9,7 @@
         {
             "caption": "Hello World Plugin",
             "name": "hello",
-            "moduleName": "hello_world_plugin",
+            "moduleName": "mysql-shell-plugin-demo-master",
             "description": "The most basic plugin example.",
             "latestVersion": "0.0.1",
             "editions": [
