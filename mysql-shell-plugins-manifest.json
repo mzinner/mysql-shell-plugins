@@ -26,7 +26,7 @@
                         "Inital release."
                     ],
                     "urls": {
-                        "community": "https://insidemysql.com/downloads/mysql-shell-hello-plugin-0.0.1.zip"
+                        "community": "https://github.com/mzinner/mysql-shell-plugin-demo/archive/refs/heads/master.zip"
                     }
                 }
             ]
